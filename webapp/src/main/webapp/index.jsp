@@ -103,10 +103,10 @@ h1{
 	 
 
     </section>    
-    <section id="about"><h1>This Is About</h1></section>
-    <section id="product"><h1>This Is Product</h1></section>
-    <section id="pricing"><h1>This Is Pricing</h1></section>
-    <section id="contact"><h1>This Is Contact</h1></section>
+    <section id="about"><h1>TAbout</h1></section>
+    <section id="product"><h1>Product</h1></section>
+    <section id="pricing"><h1>Pricing</h1></section>
+    <section id="contact"><h1>Contact</h1></section>
 
 </body>
 </html>
